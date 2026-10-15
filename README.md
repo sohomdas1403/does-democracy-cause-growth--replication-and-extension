@@ -32,4 +32,8 @@ Specifications use 4 lags of GDP, 4 lags of regional GDP and 4 lags of the democ
 
 Acemoglu, D., Naidu, S., Restrepo, P., & Robinson, J. A. (2019). Democracy Does Cause Growth. *Journal of Political Economy*, 127(1), 47–100.
 
-This extension was part of a larger group project for *Foundations of Econometrics and Machine Learning*, with Raffier J., Sudan M., Sindler D., Mena G., Das S. and Ducotterd M.
+## About this Code Sample
+
+This extension was part of a larger group project for *Foundations of Econometrics and Machine Learning*, with Raffier J., Sudan M., Sindler D., Mena G.,and Ducotterd M., which included analysis of colonial/post-colonial heterogeneity. The code presented here represents the portion of the code the owner of the repository, Sohom Das, was responsible for. The code builds on the authors' replication files.
+
+Grade received: 5.92/6
